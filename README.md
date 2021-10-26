@@ -1,7 +1,9 @@
 # Surfs_Up
+
 ## Overview
 The purpose of this analysis was to look at the weather data of the months of June and December in Oahu, Hawaii. The analysis of this data was used to determine whether the surf boar and ice cream business would be sustainable throughout the year in that area.
 ## Results
+
 ### June
 - The average temperature in June was 74.94 degrees farenheit.
 - There was a maximum temperature of 85 degrees and a minimum temperature of 64 degrees.
